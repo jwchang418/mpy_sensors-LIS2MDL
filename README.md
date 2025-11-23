@@ -1,6 +1,7 @@
 # LIS2MDL 3-Axis Magnetometer and Raspberry Pi Pico
 
 The LIS2MDL is a high-performance, low-power 3-axis magnetometer from STMicroelectronics. It is designed for accurate magnetic field measurement and heading determination. The sensor communicates via I²C (up to 3.4 MHz), making it easy to interface with Raspberry Pi Pico or other microcontrollers.
+<br>
 
 ## LIS2MDL Module
 
